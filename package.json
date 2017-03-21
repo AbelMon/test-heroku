@@ -25,7 +25,7 @@
   "homepage": "https://github.com/AbelMon/test-mssql#readme",
   "dependencies": {
     "basic-auth": "^1.1.0",
-    "body-parser": "^1.16.1",
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
     "helmet": "^3.4.0",
     "sequelize": "^3.30.2",
